@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Nano & Flash Demo",
+  "description": "A minimal, high-performance skeleton project demonstrating Gemini 3 Flash for text and Gemini Nano Banana for image generation.",
+  "requestFramePermissions": []
+}
